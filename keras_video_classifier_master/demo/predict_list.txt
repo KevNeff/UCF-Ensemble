@@ -1,0 +1,6 @@
+['very_large_data/UCF-101\\ApplyEyeMakeup\\v_ApplyEyeMakeup_g16_c04.avi'
+ 'very_large_data/UCF-101\\BoxingPunchingBag\\v_BoxingPunchingBag_g24_c07.avi'
+ 'very_large_data/UCF-101\\ApplyEyeMakeup\\v_ApplyEyeMakeup_g09_c06.avi'
+ ... 'very_large_data/UCF-101\\BenchPress\\v_BenchPress_g03_c06.avi'
+ 'very_large_data/UCF-101\\BandMarching\\v_BandMarching_g23_c02.avi'
+ 'very_large_data/UCF-101\\BasketballDunk\\v_BasketballDunk_g06_c03.avi']

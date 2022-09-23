@@ -112,7 +112,7 @@ Pillow==4.3.0
 plot==0.6.1
 ply==3.10
 prompt-toolkit==1.0.14
-protobuf==3.4.1
+protobuf==3.18.3
 psutil==5.2.2
 py==1.4.33
 pycosat==0.6.3
